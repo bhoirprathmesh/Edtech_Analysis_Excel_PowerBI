@@ -42,7 +42,35 @@ The dataset represents **online courses from various EdTech platforms** and prov
 
 ---
 
-## 5️⃣ Dashboard Insights (Key Findings)
+## 5️⃣ Approach
+
+### 🔹 Data Collection & Initial Processing
+- Downloaded dataset from **Kaggle**
+- Loaded CSV into **Excel** for initial exploration
+
+### 🔹 Data Cleaning & Preparation (Excel)
+- Removed duplicate records
+- Handled missing values in ratings, duration, and views
+- Standardized category and sub-category names
+- Extracted subtitle language counts
+- Converted duration into standardized hour ranges
+- Cleaned and normalized skill listings
+
+### 🔹 Data Analysis & Visualization (Power BI)
+- Built a star-schema data model
+- Created calculated measures for:
+  - Average views
+  - Instructor ratings
+  - Skill counts
+- Designed dashboards focused on:
+  - Category-wise demand
+  - Language preference
+  - Engagement metrics
+  - Instructor performance
+
+---
+
+## 6️⃣ Dashboard Insights (Key Findings)
 
 ### 📌 Course Type Popularity
 - **Standalone courses dominate** the platform offerings
@@ -112,7 +140,7 @@ The dataset represents **online courses from various EdTech platforms** and prov
 
 ---
 
-## 6️⃣ Final Conclusion
+## 7️⃣ Final Conclusion
 The **Edtech_Analysis** highlights that learner engagement is driven by:
 - High-demand technical categories
 - Industry-relevant skills
@@ -125,4 +153,5 @@ The **Edtech_Analysis** highlights that learner engagement is driven by:
 - Expand **subtitle and multilingual support**
 - Collaborate with **top-rated instructors**
 - Focus on **skill-diverse, medium-length courses**
+- Explore regional language opportunities for market expansionmedium-length courses**
 - Explore regional language opportunities for market expansion
