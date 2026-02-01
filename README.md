@@ -1,6 +1,6 @@
 # 📊 Edtech_Analysis
 
-🔗 Live Preview : https://app.powerbi.com/reportEmbed?reportId=dd2b7141-33bd-4da7-b656-0fcde7d18578&autoAuth=true&ctid=d1244466-1f7c-462f-810c-84815a170943
+🔗 Live Preview : https://app.powerbi.com/view?r=eyJrIjoiMmZhM2FhOGMtYmIyOC00MzQ0LTgwZTYtMWE1ZWYyZGJmOTI0IiwidCI6IjMxZDg0NzUxLTRhZTYtNDc5My1hZmIwLWY2YzYwYmQ4ZmNkZCJ9
 
 ## 1️⃣ Overview
 The **Edtech_Analysis** project focuses on analyzing online recorded courses across multiple EdTech platforms to understand learner preferences, content demand, engagement patterns, and growth opportunities.  
